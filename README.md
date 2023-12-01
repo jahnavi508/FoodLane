@@ -1,12 +1,12 @@
-# FoodCave 🍔 
+# FoodCave 🍴
 
-This is my Food-Cave website done as a part of FRT Project.
+This is my Food-Lane website done as a part of FRT Project.
 
-**Project repository** --> https://github.com/jahnavi508/FoodCave.git
+**Project repository** --> https://github.com/jahnavi508/FoodLane.git
 
-**Project Link** --> https://white-mud-05171ef10.3.azurestaticapps.net
+**Project Link** --> https://mango-sea-0a2f2d510.4.azurestaticapps.net/index.html
 
-**Project Demo Video** -->  https://youtu.be/dwoK7pXKkJo
+**Project Demo Video** --> 
 
 
 **Azure technologies used for Project**
@@ -21,7 +21,7 @@ This is my Food-Cave website done as a part of FRT Project.
 
 * Interactive and responsive UI.
 * Displays all the food items that are available via Restaurant or online ordering.
-* Contains an chatbot to interact with customer to clear their queries.
+* Contains an Foodbot to interact with customer to clear their queries.
 * Has collection of many sections like Home,About,Menu,Gallery,ContactUs in the webpage.
 * It contains all the items that are present in tiffin,lunch,dinner and also other beverages.
 * User can know the complete menu from the website.
@@ -36,50 +36,44 @@ This is my Food-Cave website done as a part of FRT Project.
 
 Home 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/946e2033-db77-4922-99e2-1a0280fc000d)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/c22adbc5-6ef5-45a3-91b7-563dd837bc41)
 
 
 
 
 About 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/acf89640-4646-49e5-afa8-064e557e277e)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/3fe99102-935a-442a-93b3-63b9c90312b2)
 
 
 
 Services 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4672085a-f8b7-40ae-bef6-efd865f042b9)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/40cab54d-6229-4523-938a-e06429836880)
 
 
 
 Menu
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/f3024add-62bc-4571-8dc7-5c8380b7e2c4)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/a1e53b65-4d9f-4ec6-b1f9-f05de1394979)
 
 
 
-Gallery
+Our Specials
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4a7257bc-7bbe-4ec6-b323-e5a97350c5a5)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/56d23dda-fd28-4d69-9a4a-3851fd092f55)
 
-
-
-
-Table Booking
-
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/4e03a45c-9fee-4f4f-8109-cc2d992d454d)
 
 
 
 Contact
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/3c3809c9-ea76-46b8-b8cb-e90700a72618)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/0d0baae1-5735-447f-b08c-eaa6528e7118)
 
 
 Chat Bot 
 
-![image](https://github.com/jahnavi508/FoodCave/assets/110041585/303d566d-f298-4a21-a988-48d64fe3c0c6)
+![image](https://github.com/jahnavi508/FoodLane/assets/110041585/4b3dead8-481b-4653-b6fb-64e0383d0426)
 
 
 
