@@ -1,4 +1,4 @@
-# FoodCave 🍴
+# FoodLane 🍴
 
 This is my Food-Lane website done as a part of FRT Project.
 
@@ -19,16 +19,45 @@ This is my Food-Lane website done as a part of FRT Project.
 **Features and Functionalities**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* Interactive and responsive UI.
-* Displays all the food items that are available via Restaurant or online ordering.
-* Contains an Foodbot to interact with customer to clear their queries.
-* Has collection of many sections like Home,About,Menu,Gallery,ContactUs in the webpage.
-* It contains all the items that are present in tiffin,lunch,dinner and also other beverages.
-* User can know the complete menu from the website.
-* Contains table booking facility.
-* Included the contact details to contact us for any type of queries.
-* Also included store timimgs of our Restaurant.
+* An interactive and responsive UI ensuring seamless user interaction.
+* Displays the complete range of food items available for in-restaurant dining.
+* Incorporates a Foodbot for customer interaction and query resolution.
+* Comprises multiple sections such as Home, About, Menu, Contact Us and FoodBot on the webpage.
+* Encompasses items from breakfast, lunch, dinner, and fastfood, offering a comprehensive menu.
+* Allows users to access the entire menu effortlessly from the website.
+* Enables convenient Table Booking's,Catering through phone calls.
+* Provides contact details for inquiries and support.
+* Includes restaurant store timings for easy reference.
 
+
+**Tech Stack**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Azure Static Web App.
+* Azure Language Service (Custom Q & Ans Bot) - AI & ML Category.
+* HTML
+* CSS
+* JavaScript
+
+
+
+**Team Members**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* K.Jahnavi 
+* A.Snehitha 
+* Ch.Tarakeaswar 
+* T.Balaji 
+
+
+
+
+**Team Members - Work Details**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+* K.Jahnavi(Team Leader) - Involved in coding part (HTML & CSS).
+* A.Snehitha - Involved in coding part (HTML & CSS).
+* Ch.Tarakeaswar - Involved in testing part and coding part (JavaScript).
+* T.Balaji - Handled Azure Services.
 
 
 **Screenshots**
@@ -77,23 +106,3 @@ Chat Bot
 
 
 
-
-**Tech Stack**
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Azure Static Web App
-* Azure Cognitive Service
-* Azure Bot Service
-* Azure Language Service
-* HTML
-* CSS
-* JavaScript
-
-
-
-**Team Members**
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-* K.Jahnavi 
-* A.Snehitha
-* Ch.Tarakeaswar
-* T.Balaji 
