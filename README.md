@@ -6,7 +6,7 @@ This is my Food-Lane website done as a part of FRT Project.
 
 **Project Link** --> https://mango-sea-0a2f2d510.4.azurestaticapps.net/index.html
 
-**Project Demo Video** --> 
+**Project Demo Video** --> https://youtu.be/jXYDmcZdAe4
 
 
 **Azure technologies used for Project**
