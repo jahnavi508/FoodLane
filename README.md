@@ -11,9 +11,9 @@ This is my Food-Lane website done as a part of FRT Project.
 
 **Azure technologies used for Project**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-* Static Web App
-* Azure Cognitive Service ( Azure Language Service )
-* Azure Bot Service
+* Azure Static Web App
+* Azure Language Service - Custom Q and Ans Bot
+* Bot Service
 
 
 **Features and Functionalities**
