@@ -44,10 +44,10 @@ This is my Food-Lane website done as a part of FRT Project.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * K.Jahnavi ([jahnavi508](https://github.com/jahnavi508))
-* A.Snehitha 
-* Ch.Tarakeaswar 
-* T.Balaji 
-
+* A.Snehitha ([snehitha12345678](https://github.com/snehitha12345678))
+* Ch.Tarakeaswar ([Tarakeswar7](https://github.com/tarakeswar7))
+* T.Balaji ([TallapudiBalaji](https://github.com/tallapudibalaji))
+  
 
 
 
