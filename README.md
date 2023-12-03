@@ -43,7 +43,7 @@ This is my Food-Lane website done as a part of FRT Project.
 **Team Members**
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* K.Jahnavi 
+* K.Jahnavi ([jahnavi508](https://github.com/jahnavi508))
 * A.Snehitha 
 * Ch.Tarakeaswar 
 * T.Balaji 
